@@ -4,7 +4,7 @@ package org.interview.dto;
 import lombok.Data;
 
 @Data
-public class User {
+public class UserDto {
 
  private String message;
 }
